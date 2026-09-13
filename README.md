@@ -71,3 +71,6 @@ from the author.
 GitHub server-side push history provides public, third-party-dated corroboration
 of anteriority. For maximum enforceability under French/EU law, this publication
 is complemented by a sealed deposit (*enveloppe Soleau* / bailiff record).
+
+Registered e-Soleau deposit: INPI No. **DSO2026033766** dated 2026-09-13
+(5-year conservation, sealed files).
