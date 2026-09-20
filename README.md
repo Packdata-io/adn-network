@@ -10,6 +10,7 @@ This repository publicly timestamps the conception of the **ADN Network** protoc
 a peer-to-peer B2B data network in which a free light client (*Light Packdata*)
 validates and refreshes public professional records in the background
 (the "Waze effect applied to B2B data").
+Waze is a registered trademark of Google LLC, mentioned here for illustration only.
 Full product description: [White Paper](https://packdata.io/white-paper.html)
 ([WHITEPAPER.md](WHITEPAPER.md) snapshot in this repo).
 
@@ -32,6 +33,9 @@ Full product description: [White Paper](https://packdata.io/white-paper.html)
    **chaining** (each block points to the previous one, append-only).
 3. **Reward** — sealed contributions open **extraction rights**: the more you
    contribute to freshness, the more you may extract.
+   Credits are non-monetary contribution units. Any exchangeable token is
+   under study and would be legally regulated (MiCA) before any launch —
+   no promise of value or return.
 4. **Cycle** — the more active the network, the fresher the data for everyone.
 
 ### 1.3 Privacy by design
@@ -45,6 +49,11 @@ no single point of failure.
 **Rule 2:** what engages liability requires a signature.
 Every version is logged, verifiable and reversible.
 Roadmap: a daily fingerprint of the chain anchored publicly via **OpenTimestamps**.
+
+### 1.5 Vision — AI agents (roadmap, R&D stealth, non-operational)
+Future direction: verified feeds as a trust layer for autonomous AI agents
+(anti-hallucination). Status follows reality: moved to operational only
+when proven.
 
 ## 2. Hash manifest (proof the secret code exists)
 
