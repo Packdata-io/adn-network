@@ -50,7 +50,7 @@ no single point of failure.
 Every version is logged, verifiable and reversible.
 Roadmap: a daily fingerprint of the chain anchored publicly via **OpenTimestamps**.
 
-### 1.5 Vision — AI agents (roadmap, R&D stealth, non-operational)
+### 1.5 Vision — AI agents (R&D stealth — under study, non-operational)
 Future direction: verified feeds as a trust layer for autonomous AI agents
 (anti-hallucination). Status follows reality: moved to operational only
 when proven.

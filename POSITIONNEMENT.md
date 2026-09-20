@@ -27,7 +27,7 @@ Les crédits sont des unités de contribution non monétaires. Un éventuel
 jeton échangeable est à l'étude et serait encadré juridiquement (MiCA)
 avant tout lancement — aucune promesse de valeur ou de rendement.
 
-## Vision — agents IA (feuille de route, R&D stealth, non opérationnel)
+## Vision — agents IA : en R&D (stealth) — à l'étude, non opérationnel
 Direction future : des flux vérifiés comme couche de confiance pour agents
 IA autonomes (anti-hallucination). Statut suit la réalité : passage à
 opérationnel uniquement sur preuve.
