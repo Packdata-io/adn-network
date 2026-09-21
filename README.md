@@ -7,7 +7,7 @@
 **Status:** design anchor + hash manifest. **No source code is published in this repository.**
 
 This repository publicly timestamps the conception of the **ADN Network** protocol —
-a peer-to-peer B2B data network in which a free light client (*Light Packdata*)
+a peer-to-peer B2B data network in which a free light client (*Packdata Lite*)
 validates and refreshes public professional records in the background
 (the "Waze effect applied to B2B data").
 Waze is a registered trademark of Google LLC, mentioned here for illustration only.
@@ -17,7 +17,7 @@ Full product description: [White Paper](https://packdata.io/white-paper.html)
 ## 1. Protocol specification (technical thesis)
 
 ### 1.1 Roles
-- **Licensed business** — uses *Light Packdata* (free) + *Packdata Desktop* (ADN Network
+- **Licensed business** — uses *Packdata Lite* (free) + *Packdata Desktop* (ADN Network
   licence) to prospect and contact decision-makers on fresh data. Usage itself
   refreshes the network.
 - **Company employees** — run the free light client (PC/Mac/iOS/Android/Chrome);

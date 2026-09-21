@@ -10,7 +10,7 @@
         +--> extraction credits to the contributor
 ```
 
-The free light client can, only when explicitly enabled by the user, verify public professional profiles in the background and return confirmations to the ADN Network — the Waze principle applied to B2B data.
+Packdata Lite, the free light client, can, only when explicitly enabled by the user, verify public professional profiles in the background and return confirmations to the ADN Network — the Waze principle applied to B2B data.
 
 What leaves the machine: pseudonymous confirmation signals only. No private data, no customer data, no raw records — only hashes circulate (see WHITEPAPER.md § Privacy by design).
 

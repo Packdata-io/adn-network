@@ -15,6 +15,6 @@ year: here, each use renews the consumed data.
 ## The engine (as presented on packdata.io)
 "Our proprietary distributed protocol: a living, self-cleaning
 stream. No more frozen snapshots — every use of the network
-refreshes the data for everyone." The free Light Packdata client
+refreshes the data for everyone." The free Packdata Lite client
 (beta) lets contributors keep the network up to date — the Waze
 effect applied to B2B data.
