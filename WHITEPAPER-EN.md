@@ -127,7 +127,9 @@ Entrepreneurs, solos, freelancers, employees, students: everyone verifies a piec
 
 1. Year 1 — accumulate: free, for yourself or for a business. Commissions on every licence signed thanks to you.
 2. Year 2 — three paths: €199/month licence with your credits stacked on top, referrer, or both.
-3. Freelancer — from month one: bill for prospecting (qualified lists, campaigns, data audits). Your first clients pay for your licence.
+3. Freelancer — from month one: bill for prospecting (qualified lists, campaigns, data audits). Your first clients pay for your licence. Including, tomorrow, the biggest data vendors: living contributive data, always fresh, beats any frozen database.
+
+Here, software is no longer the only one billing businesses: **contributors bill too.**
 
 **PARTNERS**
 

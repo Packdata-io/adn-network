@@ -125,7 +125,9 @@ Entrepreneurs, solos, indépendants, salariés, étudiants : chacun vérifie un 
 
 1. Année 1 — cumulez : gratuitement, pour vous ou pour une entreprise. Commissions sur chaque licence souscrite grâce à vous.
 2. Année 2 — trois voies : licence 199 €/mois avec vos crédits empilés dessus, apporteur, ou les deux.
-3. Freelance — dès le mois 1 : facturez la prospection (listes qualifiées, campagnes, audits). Vos premiers clients paient votre licence.
+3. Freelance — dès le mois 1 : facturez la prospection (listes qualifiées, campagnes, audits). Vos premiers clients paient votre licence. Y compris, demain, les plus gros vendeurs de data : une donnée contributive vivante, toujours fraîche, vaut plus qu'une base figée.
+
+Ici, ce ne sont plus seuls les logiciels qui facturent les entreprises : **les contributeurs facturent aussi.**
 
 **PARTENAIRES**
 
