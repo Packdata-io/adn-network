@@ -9,8 +9,8 @@
 
 The **DataWaze Engine** is the proprietary distributed protocol at the heart of
 the ADN Network. It turns every active user into a **live data sensor**:
-the free Light client (macOS, Windows, iOS, Android, Chrome) validates public
-professional records in the background — the "Waze effect applied to B2B data".
+Packdata Lite (free client: macOS, Windows, iOS, Android, Chrome) validates public
+professional records in the background — on the participative principle.
 No more static snapshots: the engine powers a **living, self-cleaning stream**.
 
 ## How it works (doctrine level — no source disclosed)
@@ -35,5 +35,4 @@ No more static snapshots: the engine powers a **living, self-cleaning stream**.
 
 © 2026 Samy Benhellal Hugon. All rights reserved — see [LICENSE](LICENSE).
 Reading allowed; any copy, modification or commercial use requires the
-author's written licence. *Waze is a Google LLC trademark cited for
-illustration only.*
+author's written licence. *Waze is a Google LLC trademark, mentioned solely to explain the participative principle: no affiliation, partnership or endorsement.*

@@ -6,7 +6,7 @@
 
 # B2B data peer-to-peer, free for contributors
 
-“The Waze effect applied to B2B data.”
+“Data that refreshes as you use it.”
 
 A contributive, verifiable network: the code will be public on [GitHub](https://github.com/Packdata-io).
 
@@ -46,9 +46,9 @@ Company employees: use **Packdata Lite** (free, PC/Mac/iOS/Android/Chrome), the 
 
 CONTRIBUTOR — Individual: uses **Packdata Lite** (free): the app randomly queries public data to confirm or refresh it in ADN Network. Each contribution is signed and timestamped. Earns extraction rights with each contribution, accumulates extraction credits (year 2).
 
-**The Waze effect applied to B2B data:** every **Packdata Lite** validates and refreshes public records in the background — the more users, the more accurate and self-cleaning the database becomes in real time.
+**The participative principle:** every **Packdata Lite** validates and refreshes public records in the background — the more users, the more accurate and self-cleaning the database becomes in real time — in the manner of Waze (a Google trademark, mentioned solely to explain, with no affiliation).
 
-Waze is a registered trademark of Google LLC, mentioned here for illustration only.
+Waze is a registered trademark of Google LLC. It is mentioned here solely to explain the participative principle: no affiliation with, partnership with, or endorsement by Google.
 
 A contributive, verifiable network: the code will be public on [GitHub](https://github.com/Packdata-io).
 
@@ -117,6 +117,18 @@ Individuals: nano-credits. Each update earns you **nano-credits**, to keep or ex
 
 Under study: exchangeable utility token. An exchangeable utility token is **under study**, which would be **legally regulated** (MiCA framework). Described for informational purposes — **no promise of value or return**.
 
+**CONTRIBUTORS**
+
+## In a world where data is queen, contributors are kings
+
+Entrepreneurs, solos, freelancers, employees, students: everyone verifies a piece of public data with Packdata Lite — the more we are, the fresher the data for all.
+
+**The virtuous circle:** the more we verify, the fresher the data. The fresher the data, the more businesses take licences. The more licences, the bigger the network — and the more it pays those who build it.
+
+1. Year 1 — accumulate: free, for yourself or for a business. Commissions on every licence signed thanks to you.
+2. Year 2 — three paths: €199/month licence with your credits stacked on top, referrer, or both.
+3. Freelancer — from month one: bill for prospecting (qualified lists, campaigns, data audits). Your first clients pay for your licence.
+
 **PARTNERS**
 
 ## We're looking for partners
@@ -149,7 +161,7 @@ An exchangeable utility token would be **legally regulated** (MiCA framework, sp
 
 ## Lightweight, multiplatform, voluntary
 
-A lightweight client (**macOS, Windows, iOS, Android, Chrome**) enables network contribution: the app randomly queries public professional data to confirm or refresh it in ADN Network. Nothing is collected without people's knowledge. Each contribution is **encrypted** and rewarded in extraction rights.
+A lightweight client (**macOS, Windows, iOS, Android, Chrome**) enables network contribution: the app randomly queries public professional data to confirm or refresh it in ADN Network. Nothing is collected without people's knowledge. Each contribution is **encrypted** and rewarded in extraction rights. Plug in your own AI agent — Packdata Lite runs in the background, piloted or self-piloted, and every validated check earns you credits.
 
 This document is provided for informational purposes and describes a product vision that may evolve. It does not constitute an offer, investment solicitation, or return promise. The "token" component is under study and would, if launched, be legally regulated beforehand.
 

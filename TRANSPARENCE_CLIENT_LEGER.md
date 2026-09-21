@@ -10,7 +10,7 @@
         +--> crédits d'extraction au contributeur
 ```
 
-Packdata Lite, le client léger gratuit, peut, uniquement si l'utilisateur l'active explicitement, vérifier en arrière-plan des profils professionnels publics et renvoyer les confirmations au réseau ADN — le principe Waze appliqué à la data B2B.
+Packdata Lite, le client léger gratuit, peut, uniquement si l'utilisateur l'active explicitement, vérifier en arrière-plan des profils professionnels publics et renvoyer les confirmations au réseau ADN — sur le principe des applications participatives (à la manière de Waze — marque Google, citée pour expliquer, sans affiliation).
 
 Ce qui quitte la machine : des signaux de confirmation pseudonymisés uniquement. Aucune donnée privée, aucune donnée client, aucun enregistrement brut — seuls des hash circulent (voir WHITEPAPER.md § Privacy by design).
 

@@ -9,8 +9,7 @@
 This repository publicly timestamps the conception of the **ADN Network** protocol —
 a peer-to-peer B2B data network in which a free light client (*Packdata Lite*)
 validates and refreshes public professional records in the background
-(the "Waze effect applied to B2B data").
-Waze is a registered trademark of Google LLC, mentioned here for illustration only.
+(data that refreshes as you use it).
 Full product description: [White Paper](https://packdata.io/white-paper.html)
 ([WHITEPAPER.md](WHITEPAPER.md) snapshot in this repo).
 

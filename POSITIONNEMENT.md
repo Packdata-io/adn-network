@@ -17,10 +17,8 @@ usage renouvelle la donnée consommée.
 ## Le moteur (tel que présenté sur packdata.io)
 « Notre protocole distribué propriétaire : un flux vivant qui
 s'auto-nettoie. Fini les snapshots figés — chaque usage du réseau
-rafraîchit la donnée pour tous. » Le client léger gratuit Light
-Packdata (bêta) permet aux contributeurs d'aider le réseau à
-rester à jour — effet Waze appliqué à la data B2B.
-Waze est une marque déposée de Google LLC, mentionnée ici uniquement à titre illustratif.
+rafraîchit la donnée pour tous. » Le client léger gratuit Packdata Lite (bêta) permet aux contributeurs d'aider le réseau à
+rester à jour — sur le principe des applications participatives (à la manière de Waze — marque Google, citée pour expliquer, sans affiliation).
 
 ## Crédits
 Les crédits sont des unités de contribution non monétaires. Un éventuel

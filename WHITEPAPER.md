@@ -6,7 +6,7 @@
 
 # La data B2B peer-to-peer, gratuite pour le contributeur
 
-« L'effet Waze appliqué à la data B2B. »
+« La data qui se rafraîchit quand on l'utilise. »
 
 Réseau contributif et vérifiable : le code sera public sur [GitHub](https://github.com/Packdata-io).
 
@@ -44,11 +44,11 @@ ENTREPRISE — Sous licence : utilise **Packdata Lite** (gratuit) + **Packdata D
 
 Les employés de l'entreprise : utilisent **Packdata Lite** (gratuit, PC/Mac/iOS/Android/Chrome), l'app qui alimente le réseau en mises à jour et rapporte des ADN. Augmentent les extractions de l'entreprise et réduisent le prix de sa mise à jour annuelle.
 
-CONTRIBUTEUR — Particulier : utilise **Packdata Lite** (gratuit) : l'app interroge aléatoirement des données publiques pour les confirmer ou les rafraîchir dans l'ADN Network. Chaque contribution est signée et horodatée. Gagne des droits d'extraction à chaque contribution, cumule des crédits d'extraction (année 2). Peut revendre ses crédits aux entreprises.
+CONTRIBUTEUR — Particulier : utilise **Packdata Lite** (gratuit) : l'app interroge aléatoirement des données publiques pour les confirmer ou les rafraîchir dans l'ADN Network. Chaque contribution est signée et horodatée. Gagne des droits d'extraction à chaque contribution, cumule des crédits d'extraction (année 2).
 
-**L'effet Waze appliqué à la data B2B :** chaque **Packdata Lite** valide et rafraîchit les données publiques en arrière-plan — plus il y a d'utilisateurs, plus la base devient précise et s'auto-nettoie en temps réel.
+**Le principe participatif :** chaque **Packdata Lite** valide et rafraîchit les données publiques en arrière-plan — plus il y a d'utilisateurs, plus la base devient précise et s'auto-nettoie en temps réel — à la manière de Waze (marque Google, citée uniquement pour expliquer, sans affiliation).
 
-Waze est une marque déposée de Google LLC, citée ici à titre purement illustratif.
+Waze est une marque déposée de Google LLC. Elle n'est citée ici que pour expliquer le principe participatif : aucune affiliation, aucun partenariat, ni approbation de Google.
 
 Réseau contributif et vérifiable : le code sera public sur [GitHub](https://github.com/Packdata-io).
 
@@ -115,6 +115,18 @@ Particulier : nano-crédits. Chaque mise à jour vous rapporte des **nano-crédi
 
 À l'étude : jeton échangeable. Un jeton d’usage échangeable est **à l'étude**, qui serait **encadré juridiquement** (cadre MiCA). Décrit à titre d'information — **aucune promesse de valeur ni de rendement**.
 
+**CONTRIBUTEURS**
+
+## Dans un monde où la data est reine, les contributeurs sont les rois
+
+Entrepreneurs, solos, indépendants, salariés, étudiants : chacun vérifie un bout de la data publique avec Packdata Lite — plus on est nombreux, plus la data est fraîche pour tous.
+
+**Le cercle vertueux :** plus on est nombreux à vérifier, plus la data est fraîche. Plus elle est fraîche, plus les entreprises prennent des licences. Plus il y a de licenciés, plus le réseau grandit — et plus il rapporte à ceux qui le construisent.
+
+1. Année 1 — cumulez : gratuitement, pour vous ou pour une entreprise. Commissions sur chaque licence souscrite grâce à vous.
+2. Année 2 — trois voies : licence 199 €/mois avec vos crédits empilés dessus, apporteur, ou les deux.
+3. Freelance — dès le mois 1 : facturez la prospection (listes qualifiées, campagnes, audits). Vos premiers clients paient votre licence.
+
 **PARTENAIRES**
 
 ## Nous recherchons des partenaires
@@ -147,7 +159,7 @@ Un jeton d’usage échangeable serait **encadré juridiquement** (cadre MiCA, c
 
 ## Léger, multiplateforme, volontaire
 
-Un client léger (**macOS, Windows, iOS, Android, Chrome**) permet de contribuer au réseau : l'app interroge **aléatoirement** des données publiques professionnelles pour les confirmer ou les rafraîchir dans l'ADN Network. Rien n'est collecté à l'insu des personnes. Chaque contribution est **chiffrée** et récompensée en droits d'extraction.
+Un client léger (**macOS, Windows, iOS, Android, Chrome**) permet de contribuer au réseau : l'app interroge **aléatoirement** des données publiques professionnelles pour les confirmer ou les rafraîchir dans l'ADN Network. Rien n'est collecté à l'insu des personnes. Chaque contribution est **chiffrée** et récompensée en droits d'extraction. Branchez votre propre agent IA — Packdata Lite tourne en arrière-plan, piloté ou autopiloté, et chaque contrôle validé vous rapporte.
 
 Ce document est fourni à titre d'information et décrit une vision produit susceptible d'évoluer. Il ne constitue ni une offre, ni une sollicitation d'investissement, ni une promesse de rendement. Le volet « jeton » est à l'étude et serait, le cas échéant, encadré juridiquement avant tout lancement.
 

@@ -16,5 +16,4 @@ year: here, each use renews the consumed data.
 "Our proprietary distributed protocol: a living, self-cleaning
 stream. No more frozen snapshots — every use of the network
 refreshes the data for everyone." The free Packdata Lite client
-(beta) lets contributors keep the network up to date — the Waze
-effect applied to B2B data.
+(beta) lets contributors keep the network up to date — following the participative-app principle (in the manner of Waze — a Google trademark, mentioned to explain, with no affiliation).
