@@ -17,3 +17,6 @@ year: here, each use renews the consumed data.
 stream. No more frozen snapshots — every use of the network
 refreshes the data for everyone." The free Packdata Lite client
 (beta) lets contributors keep the network up to date — following the participative-app principle (in the manner of Waze — a Google trademark, mentioned to explain, with no affiliation).
+
+## Vision — AI agents: BYOA piloted available, Packdata autonomous in R&D
+Your agent you connect (your key, your rules): available — it verifies and earns you credits. Our Packdata-operated autonomous agents: R&D, not deployed. Future direction: verified feeds as a trust layer for AI agents (anti-hallucination). Status follows reality: moved to operational only when proven.

@@ -37,3 +37,53 @@ Integrity: every contribution is sealed (SHA-256 fingerprint + ECDSA P-256 signa
 Confidentiality: permanently encrypted transport (TLS 1.3 / DTLS, mandatory in WebRTC). Circulating hashes are pseudonymous, never raw records on the network.
 
 Access: entry gated by signed API keys. Privilege separation: contributing opens no extraction rights beyond earned credits. Source code stays private; the above properties are auditable on request under NDA.
+
+## Continuous verification, human-orchestrated
+
+Packdata Lite runs alone in the background — available on Windows, Mac, iOS, Android and Chrome. Your choice: human, piloted, or accelerated by your own AI agent. In all cases your private meta-search engines cross-check any public observable — pages, APIs and public metrics — in parallel, in seconds and track-free — your device IP is never exposed to sources. Nothing leaves your device without opt-in: only signed hashes join the ADN Network. Every proof is chained, timestamped, third-party verifiable — sealed under the Cerveau Numérique protocol. Your sentinels keep continuous watch, you only review sensitive cases. Non-monetary credits and extraction rights, rates shown in-app, 1500 capped B2B-verified licences per year, possible future token under MiCA with no promise of value. Included in Packdata Lite, native to the software. Our autonomous agents remain R&D.
+
+```
+┌─ CLIENT DEVICE — all OS (trust boundary) ────────────┐
+│ Windows · Mac · iOS · Android · Chrome               │
+│ Lite alone · human / piloted / optional agent        │
+│ You: mission, rules, sensitive-case review           │
+│ Local agent: your key, filters, adjustable pace      │
+│ Raw data: NEVER leaves the device                    │
+│ Mobile: light watch (store rules) · Desktop /        │
+│ Chrome: full watch                                   │
+└───────────────┬──────────────────────────────────────┘
+                │ fragmented ≤40 KB requests, TLS 1.3
+                │ explicit opt-in, one-click stop
+                ▼
+┌─ PRIVATE ENGINES (operated by you, track-free) ──────┐
+│ Any public observable: pages, APIs, public metrics   │
+│ in parallel, in seconds, track-free                  │
+│ Seen by sources: engine IP, never device IP          │
+│ No request logs, rate-limit + backoff                │
+└───────────────┬──────────────────────────────────────┘
+                │ candidates: URL + excerpt + observed date
+                ▼
+┌─ VERIFIER (deterministic, not the LLM) ──────────────┐
+│ Cross-check ≥2 concordant sources                    │
+│ found → verified: sources + date + traced agent      │
+└───────────────┬──────────────────────────────────────┘
+                │ verified only
+                ▼
+┌─ SEALING — Cerveau Numérique (proof, no raw) ────────┐
+│ SHA-256 (integrity) + ECDSA P-256 (signature)        │
+│ append-only chaining + timestamping (OpenTimestamps) │
+│ Hashes + metadata only, pseudonymous                 │
+└───────────────┬──────────────────────────────────────┘
+                ▼
+┌─ ADN NETWORK ────────────────────────────────────────┐
+│ Shared memory, mutual freshness                      │
+│ Verifiable by any third party holding the public key │
+└───────────────┬──────────────────────────────────────┘
+                │ permanent watch (versioned rules)
+                ▼
+┌─ SENTINELS → VALIDATED ──────────────────────────────┐
+│ You or confidence threshold (+ Supervisor/Compliance │
+│ for sensitive actions). Corrections tighten rules.   │
+│ Never infallible.                                    │
+└──────────────────────────────────────────────────────┘
+```
