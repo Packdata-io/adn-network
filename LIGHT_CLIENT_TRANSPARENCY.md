@@ -40,7 +40,7 @@ Access: entry gated by signed API keys. Privilege separation: contributing opens
 
 ## Continuous verification, human-orchestrated
 
-Packdata Lite runs alone in the background — available on Windows, Mac, iOS, Android and Chrome. Your choice: human, piloted, or accelerated by your own AI agent. In all cases your private meta-search engines cross-check any public observable — pages, APIs and public metrics — in parallel, in seconds and track-free — your device IP is never exposed to sources. Nothing leaves your device without opt-in: only signed hashes join the ADN Network. Every proof is chained, timestamped, third-party verifiable — sealed under the Cerveau Numérique protocol. Your sentinels keep continuous watch, you only review sensitive cases. Non-monetary credits and extraction rights, rates shown in-app, 1500 capped B2B-verified licences per year, possible future token under MiCA with no promise of value. Included in Packdata Lite, native to the software. Our autonomous agents remain R&D.
+Packdata Lite runs alone in the background — available on Windows, Mac, iOS, Android and Chrome. Your choice: human, piloted, or accelerated by your own AI agent. In all cases your private meta-search engines cross-check any public observable — pages, APIs and public metrics — in parallel, in seconds, with pseudonymous tracing only (like Bitcoin: the contribution is tied to a key, never to your identity) — your device IP is never exposed to sources. Nothing leaves your device without opt-in: only signed hashes join the ADN Network. Every proof is chained, timestamped, third-party verifiable — sealed under the Cerveau Numérique protocol. Your sentinels keep continuous watch, you only review sensitive cases. Non-monetary credits and extraction rights, rates shown in-app, 1500 capped B2B-verified licences per year, possible future token under MiCA with no promise of value. Included in Packdata Lite, native to the software. Our autonomous agents remain R&D.
 
 ```
 ┌─ CLIENT DEVICE — all OS (trust boundary) ────────────┐
@@ -55,9 +55,9 @@ Packdata Lite runs alone in the background — available on Windows, Mac, iOS, A
                 │ fragmented ≤40 KB requests, TLS 1.3
                 │ explicit opt-in, one-click stop
                 ▼
-┌─ PRIVATE ENGINES (operated by you, track-free) ──────┐
+┌─ PRIVATE ENGINES (operated by you, pseudonymous) ────┐
 │ Any public observable: pages, APIs, public metrics   │
-│ in parallel, in seconds, track-free                  │
+│ in parallel, in seconds, pseudonymous                │
 │ Seen by sources: engine IP, never device IP          │
 │ No request logs, rate-limit + backoff                │
 └───────────────┬──────────────────────────────────────┘

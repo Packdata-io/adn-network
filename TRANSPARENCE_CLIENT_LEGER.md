@@ -40,7 +40,7 @@ Accès : entrée filtrée par clés API signées. Séparation des privilèges : 
 
 ## Vérification continue, orchestrée par l'humain
 
-Packdata Lite fonctionne seul en arrière-plan — disponible sur Windows, Mac, iOS, Android et Chrome. À vous de choisir : vérification humaine, pilotée, ou accélérée par votre propre agent IA. Dans tous les cas, vos moteurs privés de méta-recherche recoupent tout observable public — pages, API et métriques publiques — en parallèle, en quelques secondes et sans traçage — l'IP de votre poste n'est jamais exposée aux sources. Rien ne quitte votre poste sans opt-in : seuls des hash signés rejoignent l'ADN Network. Chaque preuve est chaînée, horodatée, vérifiable par tout tiers — scellée selon le protocole Cerveau Numérique. Vos sentinelles veillent en continu, vous ne validez que les cas sensibles. Crédits et droits d'extraction non monétaires, taux affichés dans le logiciel, 1500 licences par an à plafond contractuel, jeton éventuel à l'étude encadré MiCA sans promesse de valeur. Inclus dans Packdata Lite, natif dans le logiciel. Nos agents autonomes restent en R&D.
+Packdata Lite fonctionne seul en arrière-plan — disponible sur Windows, Mac, iOS, Android et Chrome. À vous de choisir : vérification humaine, pilotée, ou accélérée par votre propre agent IA. Dans tous les cas, vos moteurs privés de méta-recherche recoupent tout observable public — pages, API et métriques publiques — en parallèle, en quelques secondes, avec traçage pseudonymisé uniquement (comme Bitcoin : la contribution est rattachée à une clé, jamais à votre identité) — l'IP de votre poste n'est jamais exposée aux sources. Rien ne quitte votre poste sans opt-in : seuls des hash signés rejoignent l'ADN Network. Chaque preuve est chaînée, horodatée, vérifiable par tout tiers — scellée selon le protocole Cerveau Numérique. Vos sentinelles veillent en continu, vous ne validez que les cas sensibles. Crédits et droits d'extraction non monétaires, taux affichés dans le logiciel, 1500 licences par an à plafond contractuel, jeton éventuel à l'étude encadré MiCA sans promesse de valeur. Inclus dans Packdata Lite, natif dans le logiciel. Nos agents autonomes restent en R&D.
 
 ```
 ┌─ POSTE CLIENT — tous OS (périmètre de confiance) ────┐
@@ -55,9 +55,9 @@ Packdata Lite fonctionne seul en arrière-plan — disponible sur Windows, Mac, 
                 │ requêtes fragmentées ≤40 Ko, TLS 1.3
                 │ opt-in explicite, coupure à tout moment
                 ▼
-┌─ MOTEURS PRIVÉS (opérés par vous, sans traçage) ─────┐
+┌─ MOTEURS PRIVÉS (opérés par vous, pseudonymisé) ─────┐
 │ Tout observable public : pages, API, métriques       │
-│ publiques — en parallèle, secondes, sans traçage     │
+│ publiques — en parallèle, secondes, pseudonymisé     │
 │ Vues par les sources : IP du moteur, jamais IP poste │
 │ Aucun log requête, rate-limit + backoff              │
 └───────────────┬──────────────────────────────────────┘
