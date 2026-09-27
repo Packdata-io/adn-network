@@ -30,7 +30,7 @@ Licences capped at 1,500 per year, with verified B2B registration. The cap guara
 
 ## Architecture note
 
-Native Rust light client (memory safety with no GC, strict isolation, minimal footprint), asynchronous multithreaded ingestion engine, real-time peer-to-peer mesh transport with NAT traversal (libp2p, WebRTC): no central server farm, no single point of failure.
+Native Rust light client (memory safety with no GC, strict isolation, minimal footprint), asynchronous multithreaded ingestion engine, real-time peer-to-peer mesh transport with NAT traversal (libp2p, WebRTC): no central server farm on the contribution path; only initial bootstrapping and software updates remain centralized.
 
 Integrity: every contribution is sealed (SHA-256 fingerprint + ECDSA P-256 signature + append-only chaining) and verifiable by any third party holding the public key. A daily chain fingerprint will be publicly anchored via OpenTimestamps (Phase 1 roadmap, chain currently internal).
 

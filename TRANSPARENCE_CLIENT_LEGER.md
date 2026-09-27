@@ -30,7 +30,7 @@ Licences plafonnées à 1 500 par an, avec immatriculation B2B vérifiée. Le pl
 
 ## Note d'architecture
 
-Client natif compilé en Rust (sécurité mémoire sans GC, isolation stricte, empreinte minimale), moteur d'ingestion asynchrone multi-thread, transport mesh pair-à-pair temps réel avec traversée NAT (libp2p, WebRTC) : aucune ferme de serveurs centrale, aucun point unique de défaillance.
+Client natif compilé en Rust (sécurité mémoire sans GC, isolation stricte, empreinte minimale), moteur d'ingestion asynchrone multi-thread, transport mesh pair-à-pair temps réel avec traversée NAT (libp2p, WebRTC) : aucune ferme de serveurs centrale sur le chemin des contributions ; seuls l'amorçage initial et les mises à jour logicielles restent centralisés.
 
 Intégrité : chaque contribution est scellée (empreinte SHA-256 + signature ECDSA P-256 + chaînage append-only) et vérifiable par tout tiers muni de la clé publique. Une empreinte quotidienne de la chaîne sera ancrée publiquement via OpenTimestamps (roadmap Phase 1, chaîne actuellement interne).
 
