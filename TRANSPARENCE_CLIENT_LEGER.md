@@ -59,7 +59,7 @@ Packdata Lite fonctionne seul en arrière-plan — disponible sur Windows, Mac, 
 │ Tout observable public : pages, API, métriques       │
 │ publiques — en parallèle, secondes, pseudonymisé     │
 │ Vues par les sources : IP du moteur, jamais IP poste │
-│ Aucun log requête, rate-limit + backoff              │
+│ Zéro log centralisé, rate-limit + backoff            │
 └───────────────┬──────────────────────────────────────┘
                 │ candidats : URL + extrait + date constat
                 ▼

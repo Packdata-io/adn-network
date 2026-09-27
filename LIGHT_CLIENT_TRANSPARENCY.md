@@ -59,7 +59,7 @@ Packdata Lite runs alone in the background — available on Windows, Mac, iOS, A
 │ Any public observable: pages, APIs, public metrics   │
 │ in parallel, in seconds, pseudonymous                │
 │ Seen by sources: engine IP, never device IP          │
-│ No request logs, rate-limit + backoff                │
+│ No centralized logs, rate-limit + backoff            │
 └───────────────┬──────────────────────────────────────┘
                 │ candidates: URL + excerpt + observed date
                 ▼
