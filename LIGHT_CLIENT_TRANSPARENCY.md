@@ -32,7 +32,7 @@ Licences capped at 1,500 per year, with verified B2B registration. The cap guara
 
 Native Rust light client (memory safety with no GC, strict isolation, minimal footprint), asynchronous multithreaded ingestion engine, real-time peer-to-peer mesh transport with NAT traversal (libp2p, WebRTC): no central server farm, no single point of failure.
 
-Integrity: every contribution is sealed (SHA-256 fingerprint + ECDSA P-256 signature + append-only chaining) and verifiable by any third party holding the public key. A daily chain fingerprint is anchored publicly via OpenTimestamps.
+Integrity: every contribution is sealed (SHA-256 fingerprint + ECDSA P-256 signature + append-only chaining) and verifiable by any third party holding the public key. A daily chain fingerprint will be publicly anchored via OpenTimestamps (Phase 1 roadmap, chain currently internal).
 
 Confidentiality: permanently encrypted transport (TLS 1.3 / DTLS, mandatory in WebRTC). Circulating hashes are pseudonymous, never raw records on the network.
 
@@ -64,14 +64,14 @@ Packdata Lite runs alone in the background — available on Windows, Mac, iOS, A
                 │ candidates: URL + excerpt + observed date
                 ▼
 ┌─ VERIFIER (deterministic, not the LLM) ──────────────┐
-│ Cross-check ≥2 concordant sources                    │
+│ Cross-check 3 concordant sources minimum             │
 │ found → verified: sources + date + traced agent      │
 └───────────────┬──────────────────────────────────────┘
                 │ verified only
                 ▼
 ┌─ SEALING — Cerveau Numérique (proof, no raw) ────────┐
 │ SHA-256 (integrity) + ECDSA P-256 (signature)        │
-│ append-only chaining + timestamping (OpenTimestamps) │
+│ append-only chaining + timestamping (OTS roadmap)    │
 │ Hashes + metadata only, pseudonymous                 │
 └───────────────┬──────────────────────────────────────┘
                 ▼

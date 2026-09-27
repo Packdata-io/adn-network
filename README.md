@@ -51,8 +51,9 @@ Roadmap: a daily fingerprint of the chain anchored publicly via **OpenTimestamps
 
 ### 1.5 Vision — AI agents (R&D stealth — under study, non-operational)
 Future direction: verified feeds as a trust layer for autonomous AI agents
-(anti-hallucination). Status follows reality: moved to operational only
-when proven.
+(anti-hallucination). BYOA available today (your own agent, your key, your rules).
+Packdata autonomous agents remain R&D, non-operational, with no promised date.
+Status follows reality: moved to operational only when proven.
 
 ## 2. Hash manifest (proof the secret code exists)
 

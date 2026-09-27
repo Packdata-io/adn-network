@@ -32,7 +32,7 @@ Licences plafonnées à 1 500 par an, avec immatriculation B2B vérifiée. Le pl
 
 Client natif compilé en Rust (sécurité mémoire sans GC, isolation stricte, empreinte minimale), moteur d'ingestion asynchrone multi-thread, transport mesh pair-à-pair temps réel avec traversée NAT (libp2p, WebRTC) : aucune ferme de serveurs centrale, aucun point unique de défaillance.
 
-Intégrité : chaque contribution est scellée (empreinte SHA-256 + signature ECDSA P-256 + chaînage append-only) et vérifiable par tout tiers muni de la clé publique. Une empreinte quotidienne de la chaîne est ancrée publiquement via OpenTimestamps.
+Intégrité : chaque contribution est scellée (empreinte SHA-256 + signature ECDSA P-256 + chaînage append-only) et vérifiable par tout tiers muni de la clé publique. Une empreinte quotidienne de la chaîne sera ancrée publiquement via OpenTimestamps (roadmap Phase 1, chaîne actuellement interne).
 
 Confidentialité : transport chiffré en permanence (TLS 1.3 / DTLS, obligatoire en WebRTC). Les hash qui circulent sont pseudonymes, jamais d'enregistrements bruts sur le réseau.
 
@@ -64,14 +64,14 @@ Packdata Lite fonctionne seul en arrière-plan — disponible sur Windows, Mac, 
                 │ candidats : URL + extrait + date constat
                 ▼
 ┌─ VÉRIFICATEUR (déterministe, pas le LLM) ────────────┐
-│ Croisement ≥2 sources concordantes                   │
+│ Croisement 3 sources concordantes minimum            │
 │ trouvée → vérifiée : sources + date + agent tracé    │
 └───────────────┬──────────────────────────────────────┘
                 │ vérifiée seulement
                 ▼
 ┌─ SCELLEMENT — Cerveau Numérique (preuve, pas brut) ──┐
 │ SHA-256 (intégrité) + ECDSA P-256 (signature)        │
-│ chaînage append-only + horodatage (OpenTimestamps)   │
+│ chaînage append-only + horodatage (OTS: roadmap)     │
 │ Hash + métadonnées seuls, pseudonymes                │
 └───────────────┬──────────────────────────────────────┘
                 ▼
